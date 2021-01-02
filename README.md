@@ -8,3 +8,5 @@ An android studio platform to wirte your own poems and stories
 https://www.youtube.com/watch?v=tbh9YaWPKKs
 
 https://www.youtube.com/watch?v=TwHmrZxiPA8
+
+https://www.youtube.com/watch?v=RiHGwJ_u27k&t=1s
