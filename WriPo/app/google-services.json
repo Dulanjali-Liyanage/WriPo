@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127273978097",
+    "project_id": "wripo-9a783",
+    "storage_bucket": "wripo-9a783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127273978097:android:1ea1c01432e3983e93c150",
+        "android_client_info": {
+          "package_name": "com.duleeapp.wripo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127273978097-rieq7tnjfcmk6al93h7j5desstliiqb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duleeapp.wripo",
+            "certificate_hash": "027373bb081adc83d0b45d06aa562668e2fdeee4"
+          }
+        },
+        {
+          "client_id": "127273978097-hcmmml9freu6ib0jm0ahunqma4ji9l33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5JoSsqjD9wKsCxcDUa-G51JeZXwLjgLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127273978097-hcmmml9freu6ib0jm0ahunqma4ji9l33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

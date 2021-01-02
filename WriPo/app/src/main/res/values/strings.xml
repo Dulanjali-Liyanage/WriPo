@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WriPo</string>
+    <string name="wripo">WriPo</string>
+    <string name="write_your_poems_and_stories">write your poems and stories</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+    <string name="welcome_to_wripo">Welcome to WriPo</string>
+    <string name="logout">logout</string>
+</resources>
